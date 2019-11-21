@@ -1,12 +1,12 @@
 {
-  "name": "uuid",
+  "name": "uuuid",
   "type": "flogo:activity",
-  "ref": "github.com/mmussett/flogo-components/activity/uuid",
+  "ref": "github.com/mirchiseth/flogo-components/activity/uuid",
   "version": "0.0.1",
   "title": "Generate UUID",
   "description": "Activity for generating UUID",
   "author": "mmussett",
-  "homepage": "https://github.com/mmussett/flogo-components/tree/master/activity/uuid",
+  "homepage": "https://github.com/mirchiseth/flogo-components/tree/master/activity/uuid",
   "inputs": [
     {
       "name": "version",
